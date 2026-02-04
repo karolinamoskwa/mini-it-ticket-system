@@ -1,6 +1,5 @@
 Mini IT  TICKET SYSTEM
-1. Opis
-Projekt symulujący system obsługi zgłoszeń IT (Helpdesk / Service Desk).
+1. Opis - Projekt symulujący system obsługi zgłoszeń IT (Helpdesk / Service Desk).
 Stworzony w celu rozwoju kompetencji w obszarach:
 - IT Support
 - QA manual
@@ -8,7 +7,7 @@ Stworzony w celu rozwoju kompetencji w obszarach:
 - Analityka IT
 - dokumentacja techniczna
 
-2. Zakres projektu
+2. Zakres projektu:
 - projekt bazy danych MySQL
 - relacje między tabelami
 - zapytania analityczne SQL
@@ -18,14 +17,15 @@ Stworzony w celu rozwoju kompetencji w obszarach:
 - diagram UML
 - dokumentacja systemowa
 
-3. Technologie
+3. Technologie:
 - MySQL
 - SQL
 - GitHub
 - UML
 - Markdown
 
-4. Struktura repozytorium
+4. Struktura repozytorium:
+
 mini-it-ticket-system/
 
 ├── sql/
@@ -37,3 +37,4 @@ mini-it-ticket-system/
 ├── uml/
 
 └── README.md
+
