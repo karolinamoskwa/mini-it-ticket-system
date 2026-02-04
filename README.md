@@ -25,7 +25,6 @@ Stworzony w celu rozwoju kompetencji w obszarach:
 - Markdown
 
 4. Struktura repozytorium:
-
 mini-it-ticket-system/
 
 ├── sql/
@@ -37,4 +36,5 @@ mini-it-ticket-system/
 ├── uml/
 
 └── README.md
+
 
