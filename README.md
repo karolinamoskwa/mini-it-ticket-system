@@ -27,8 +27,13 @@ Stworzony w celu rozwoju kompetencji w obszarach:
 
 4. Struktura repozytorium
 mini-it-ticket-system/
+
 ├── sql/
+
 ├── tests/
+
 ├── docs/
+
 ├── uml/
+
 └── README.md
